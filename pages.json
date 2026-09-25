@@ -1,0 +1,94 @@
+{
+	"pages": [
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "桌面时钟",
+				"pageOrientation": "portrait"
+			}
+		},
+		{
+			"path": "pages/clock/index",
+			"style": {
+				"navigationBarTitleText": "翻页时钟",
+				"navigationStyle": "custom",
+				"pageOrientation": "landscape",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/exam-countdown/index",
+			"style": {
+				"navigationBarTitleText": "考试倒计时",
+				"navigationStyle": "custom",
+				"pageOrientation": "landscape",
+				"disableScroll": true
+			}
+		},
+
+		{
+			"path": "pages/tomato/index",
+			"style": {
+				"navigationBarTitleText": "番茄钟",
+				"navigationStyle": "custom",
+				"pageOrientation": "landscape",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/tomato/settings/index",
+			"style": {
+				"navigationBarTitleText": "番茄钟设置",
+				"navigationStyle": "custom",
+				"pageOrientation": "portrait",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/tomato/stats/index",
+			"style": {
+				"navigationBarTitleText": "番茄钟统计",
+				"navigationStyle": "custom",
+				"pageOrientation": "landscape",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/todo/index",
+			"style": {
+				"navigationBarTitleText": "待办事项",
+				"navigationStyle": "custom",
+				"pageOrientation": "portrait",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/days/index",
+			"style": {
+				"navigationBarTitleText": "倒数日",
+				"navigationStyle": "custom",
+				"pageOrientation": "portrait",
+				"disableScroll": true
+			}
+		},
+		{
+			"path": "pages/days/edit/index",
+			"style": {
+				"navigationBarTitleText": "倒数日编辑",
+				"navigationStyle": "custom",
+				"pageOrientation": "portrait",
+				"disableScroll": true
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "桌面时钟",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			"titleNView": false
+		}
+	},
+	"uniIdRouter": {}
+}
