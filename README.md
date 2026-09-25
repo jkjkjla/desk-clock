@@ -116,7 +116,13 @@ desk-clock
 
 ## 📸 截图
 
-> 待补充。欢迎提交 PR 补充各页面截图（建议：首页 / 番茄钟横屏 / 待办事项 / 统计页）。
+<img width="491" height="1065" alt="image" src="https://github.com/user-attachments/assets/467ec85d-9ffd-4deb-8a89-c7cd0c300aa0" />
+<img width="1065" height="491" alt="image" src="https://github.com/user-attachments/assets/c6ced695-0d7c-44f8-bd3d-2cb969bc935a" />
+<img width="1065" height="491" alt="image" src="https://github.com/user-attachments/assets/5595804d-9e5e-42a0-94de-85a556659eb3" />
+<img width="1065" height="491" alt="image" src="https://github.com/user-attachments/assets/ada9a189-b873-4151-9b0e-227271406ca5" />
+<img width="1065" height="491" alt="image" src="https://github.com/user-attachments/assets/d515f67e-b2ed-48df-8bcf-46075aac393b" />
+<img width="491" height="1065" alt="image" src="https://github.com/user-attachments/assets/23c53cc8-204d-46e9-9af9-a679c680f6a4" />
+<img width="491" height="1065" alt="image" src="https://github.com/user-attachments/assets/fad3c850-11f5-4976-8c53-2aa1c6be9099" />
 
 ## 📝 开源协议
 
